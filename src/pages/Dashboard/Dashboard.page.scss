@@ -1,0 +1,18 @@
+@import '../../globals/global.scss';
+
+svg{
+    color:white;
+    cursor: pointer;
+    font-size: 2.5rem !important;
+}
+
+.add-new{
+    background-color: $primary;
+    padding: 2rem;
+    display: flex;
+    justify-content: center;
+}
+
+.filter{
+    padding: 16px 0px;
+}

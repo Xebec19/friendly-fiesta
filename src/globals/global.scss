@@ -1,2 +1,6 @@
 $primary: #e52165;
 $secondary: #0d1137;
+@mixin container {
+  box-sizing: border-box;
+  padding: 2rem 4rem;
+}
